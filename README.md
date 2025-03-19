@@ -1,5 +1,5 @@
 # Stock-analysis-on-NVIDIA-Dataset
 
-• Built ARIMA and SARIMA models for short- and long-term forecasting, integrating technical indicators (RSI, SMA/EMA, MACD) for enhanced predictive accuracy and investment decision-making.
+The project involves building ARIMA and SARIMA models for short- and long-term forecasting of NVIDIA stock prices, incorporating technical indicators such as RSI, SMA/EMA, and MACD for improved predictive accuracy and investment decision-making.
 
-• Deployed LSTM neural network to forecast NVIDIA stock price volatility, achieving a 15% reduction in prediction error compared to traditional ARIMA models and enhancing investment decision-making.
+An LSTM neural network was deployed to forecast NVIDIA stock price volatility, achieving a 15% reduction in prediction error compared to traditional ARIMA models, thus enhancing investment decision-making.
